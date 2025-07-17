@@ -42,7 +42,7 @@ This is a 3D robotic arm model designed using **Tinkercad**. The arm consists of
 
 ##  Preview Image
 
-![Robot Arm 3D Model](C:\Users\asus\Downloads\robot-arm.png)
+![Robot Arm 3D Model](robot-arm.png)
 
 ---
 
