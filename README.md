@@ -46,11 +46,6 @@ This is a 3D robotic arm model designed using **Tinkercad**. The arm consists of
 
 ---
 
-##  Files Included
 
-- `robot-arm.png` – Image of the robotic arm.
-- `robot-arm.svg` – Vector file of the design for editing or viewing.
-
----
 
 
